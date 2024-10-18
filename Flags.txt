@@ -5,9 +5,5 @@
 {№3}: VIT{ar3_y0u_see_me?}
 
 {№4}: VIT{Journey_Behind_the_Falls}
-		or
-       VIT{Niagara_Falls}
 
 {№5}: VIT{d0es_any0ne_see_me?}
-
-Ответы разместить в своём профиле на github и прислать ссылку.
